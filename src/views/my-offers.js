@@ -88,7 +88,7 @@ const MyOffers = (props) => {
       </header>
       <div className="my-offers-container1">
         <h1 className="my-offers-text05">
-          <span>My sent Requests</span>
+          <span>My Sent Requests</span>
           <br></br>
         </h1>
         <form className="my-offers-form">

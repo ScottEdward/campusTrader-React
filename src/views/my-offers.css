@@ -596,6 +596,9 @@
   .my-offers-container1 {
     width: 100%;
   }
+  .my-offers-text05 {
+    text-decoration: underline;
+  }
   .my-offers-text27 {
     color: var(--dl-color-gray-white);
   }
